@@ -1,0 +1,5 @@
+numpy == 1.23.3
+opencv_python == 4.6.0.66
+mediapipe == 0.8.9.1
+RPi.GPIO == 0.7.0
+requests == 2.25.1
